@@ -1,0 +1,3 @@
+[build-system]
+# Requirements for building the compiled package
+requires = ["setuptools", "wheel", "cython", "numpy"]
